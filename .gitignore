@@ -1,6 +1,8 @@
 .firebaserc
 404.html
 firebase.json
+.DS_Store
+
 
 
 # Logs
